@@ -1,5 +1,5 @@
-## EstateFlow: Emphasizing smooth workflows for property management.
-<img width="1470" alt="Screenshot 2025-01-13 at 11 38 30 PM" src="https://github.com/user-attachments/assets/23f69365-2e3a-42ca-9701-499767731fb3" />
+# EstateFlow: Emphasizing smooth workflows for property management.
+<img width="1470" alt="Screenshot 2025-01-13 at 11 38 30 PM" src="https://github.com/user-attachments/assets/506d5e62-7e9a-4a1c-b217-d4985000bbcd" />
 
 ## Overview
 
