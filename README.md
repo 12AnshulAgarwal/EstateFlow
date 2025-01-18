@@ -6,7 +6,7 @@
 Nivaas is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) application designed for the real estate domain. It features an elegant, user-friendly dashboard to streamline property management while integrating modern technologies for performance and scalability.
 
 ## Key Features
-•⁠  ⁠Complete CRUD Functionalities: Create, view, update, and delete property listings effortlessly.
+- **⁠Complete CRUD Functionalities: Create, view, update, and delete property listings effortlessly.
 •⁠  ⁠Authentication with Google Auth: Quick and secure login/registration using Google OAuth.
 •⁠  ⁠Pagination, Sorting, and Filtering: Efficiently organize and access property listings.
 •⁠  ⁠Material UI Design: Pixel-perfect, responsive interface for seamless navigation.
